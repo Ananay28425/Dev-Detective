@@ -12,10 +12,6 @@ A sleek, minimalist GitHub profile search application built with vanilla JavaScr
 🎨 **Modern CSS** - Custom CSS variables, flexbox layout, beautiful shadows
 ♿ **Accessible** - Semantic HTML, keyboard navigation support
 
-## Live Demo
-
-[View Dev Detective](https://dev-detective.vercel.app)
-
 ## Tech Stack
 
 - **HTML5** - Semantic markup
@@ -206,6 +202,3 @@ Created with ❤️ following Apple design principles.
 - Inter font by Rasmus Andersson
 - Icons and design patterns from Apple Human Interface Guidelines
 
----
-
-**Questions?** Open an issue or reach out!
