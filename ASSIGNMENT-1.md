@@ -231,7 +231,7 @@ const renderProfile = (data) => {
 
 ### Deliverables
 
-* **GitHub Repository:** https://github.com/YOUR_USERNAME/Dev-Detective
+* **GitHub Repository:** https://github.com/Ananay28425/Dev-Detective
 
 ---
 
