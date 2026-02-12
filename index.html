@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dev Detective</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <main class="container">
+        <header>
+            <h1>Dev Detective</h1>
+            <p class="subtitle">Search GitHub profiles.</p>
+        </header>
+
+        <div class="search-bar">
+            <input type="text" id="search-input" placeholder="Enter GitHub username..." spellcheck="false">
+            <button id="search-btn">Search</button>
+        </div>
+
+        <div id="profile-container">
+            <div class="empty-state">
+                <p>Search for a user to view their profile.</p>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
